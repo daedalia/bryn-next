@@ -1,4 +1,4 @@
-import {InputText} from "../coponents/inputText";
+import {InputText} from "../components/inputText";
 
 export default function Home() {
   return (
